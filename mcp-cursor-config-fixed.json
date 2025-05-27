@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "amazon-analyzer": {
+      "command": "node",
+      "args": [
+        "D:\\\\PPMCPServer\\\\dist\\\\index.js"
+      ],
+      "env": {}
+    }
+  }
+} 

@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "amazon-product-performance-analyzer": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "D:\\PPMCPServer",
+      "env": {}
+    }
+  }
+} 
